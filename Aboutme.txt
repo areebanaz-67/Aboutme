@@ -8,16 +8,23 @@ in a practical context, I am actively seeking opportunities to contribute to
 projects and gain invaluabale experience in a professional environment.
 
 Education:
-BS CS (7th Semester)
-cgpa:3.6
-Quaid i Azam University, Islamabad
+->BS CS (7th Semester)
+   cgpa:3.6
+   Quaid i Azam University, Islamabad
 
-FSc Pre-Eng (2019-2021)
-per: 94%
+->FSc Pre-Eng (2019-2021)
+   per: 94%
 
 Projects:
-Card Animation:
-https://github.com/areebanaz-67/Card-animation
+->Card Animation:
+   https://github.com/areebanaz-67/Card-animation
 
-Parisahy Crochet Collection:
-https://github.com/areebanaz-67/Parishay-Crochet-Collection-Website
+->Parisahy Crochet Collection:
+   https://github.com/areebanaz-67/Parishay-Crochet-Collection-Website
+
+Experience:
+->Vice President (current)
+    AICP Qau Chapter
+->Web Developer 
+    Growintern
+
