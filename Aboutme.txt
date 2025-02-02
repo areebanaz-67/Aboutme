@@ -1,1 +1,8 @@
-Hello AreebaNaz here 
+Areeba Naz
+Student
+Rawalpindi,Pakistan 
+areebanaz.edu@gmail.com
+As a highly motivated computer science student, I am 
+driven by a fervent desire to excel. Eager to apply my theoritical knowledge
+in a practical context, I am actively seeking opportunities to contribute to 
+projects and gain invaluabale experience in a professional environment.
